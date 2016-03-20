@@ -1,6 +1,6 @@
 Patrick's Stamp Collection App
 ---
 
-# About
+# About Simon
 
 Stuff about stamps here
