@@ -3,4 +3,4 @@ Patrick's Stamp Collection App
 
 # About Simon
 
-Stuff about stamps here
+New York Times says best stamp collection ever!
