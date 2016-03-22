@@ -1,0 +1,5 @@
+# Hide private-keys
+private-keys.md
+
+# Hide Mac system files
+.DS_Store
